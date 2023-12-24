@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrimShooter2", "GrimShooter2\GrimShooter2.csproj", "{28471CB3-4AD3-44D1-809B-1E07868FD6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28471CB3-4AD3-44D1-809B-1E07868FD6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28471CB3-4AD3-44D1-809B-1E07868FD6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28471CB3-4AD3-44D1-809B-1E07868FD6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28471CB3-4AD3-44D1-809B-1E07868FD6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD53C3B-0681-41D0-B7A6-B37C829BDCAD}
+	EndGlobalSection
+EndGlobal
